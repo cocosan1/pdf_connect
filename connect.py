@@ -22,7 +22,7 @@ if not pdf2:
 pdf1_name = pdf1.name
 name1 = pdf1_name.split('_')[1]
 name2 = pdf1_name.split('_')[2]
-new_file_name = name1 + '_' + name2
+new_file_name = 'お見積り・商品明細_' + name1 + '.pdf'
 
 
 #インスタンス化
